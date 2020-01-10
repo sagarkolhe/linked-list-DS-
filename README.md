@@ -1,5 +1,5 @@
 # linked-list-DS-
-All linked list operations (Contains All Function Definitions)
+All linked list operations (Code Contains All Function Definitions)
 
 1.Getting the size of the linked list 
 2.Adding elements
